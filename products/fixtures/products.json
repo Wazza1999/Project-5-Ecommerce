@@ -1,0 +1,261 @@
+[
+    {
+        "pk":1,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000001",
+        "name":"Steel Ladle",
+        "description":"Made up of high grade stainless steel this Ladle is a perfect addition to your kitchen.",
+        "price":"£2.99",
+        "category":1,
+        "image":"01.jpg"
+        }
+    },
+
+    {
+        "pk":2,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000002",
+        "name":"Metal Whisk",
+        "description":"Made up of high grade stainless steel this Whisk is a perfect addition to your kitchen.",
+        "price":"£2.99",
+        "category":1,
+        "image":"02.jpg"
+        }
+    },
+
+    {
+        "pk":3,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000003",
+        "name":"Serving Spoon",
+        "description":"Made up of high grade stainless steel this Serving Spoon is a perfect addition to your kitchen.",
+        "price":"£2.99",
+        "category":1,
+        "image":"03.jpg"
+        }
+    },
+
+    {
+        "pk":4,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000004",
+        "name":"Wooden Spoon",
+        "description":"Made up of high grade temperes oak wood this Wooden Spoon is a perfect addition to your kitchen.",
+        "price":"£1.99",
+        "category":1,
+        "image":"04.jpg"
+        }
+    },
+
+    {
+        "pk":5,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000005",
+        "name":"Spatula",
+        "description":"Made up of highly durable, heat resistant silicon is a perfect addition to your kitchen.",
+        "price":"£1.99",
+        "category":1,
+        "image":"05.jpg"
+        }
+    },
+
+    {
+        "pk":6,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000006",
+        "name":"Tongs",
+        "description":"Made up of high grade stainless steel this Ladle is a perfect addition to your kitchen.",
+        "price":"£2.99",
+        "category":1,
+        "image":"06.jpg"
+        }
+    },
+
+    {
+        "pk":7,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000007",
+        "name":"Ice Cream Scoop",
+        "description":"Made up of high grade stainless steel this Ladle is a perfect addition to your kitchen.",
+        "price":"£2.99",
+        "category":1,
+        "image":"07.jpg"
+        }
+    },
+
+    {
+        "pk":8,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000008",
+        "name":"Pasta Server",
+        "description":"Made up of high grade stainless steel this Pasta Server is a perfect addition to your kitchen.",
+        "price":"£2.99",
+        "category":1,
+        "image":"08.jpg"
+        }
+    },
+
+    {
+        "pk":9,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps0000000009",
+        "name":"Saucepan",
+        "description":"Made up of high grade stainless steel this Saucepan is a perfect addition to your kitchen.",
+        "price":"£20.99",
+        "category":2,
+        "image":"09.jpg"
+        }
+    },
+
+    {
+        "pk":10,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000010",
+        "name":"Non-Stick Frying Pan",
+        "description":"Made up of high grade non-stick carbon this Non-Stick Fryin Pan is a perfect addition to your kitchen.",
+        "price":"£17.99",
+        "category":2,
+        "image":"12.jpg"
+        }
+    },
+
+    {
+        "pk":11,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000011",
+        "name":"Cast Iron Frying Pan",
+        "description":"Made up of high grade Cast Iron this Cast Iron Frying Pan is a perfect addition to your kitchen.",
+        "price":"£40.99",
+        "category":2,
+        "image":"13.jpg"
+        }
+    },
+
+     {
+        "pk":12,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000012",
+        "name":"Stainless Steel Frying Pan",
+        "description":"Made up of high grade, heat resistant Stainless Steel this Stainless Steel Frying Pan is a perfect addition to your kitchen.",
+        "price":"£25.99",
+        "category":2,
+        "image":"14.jpg"
+        }
+     },
+
+    {
+        "pk":12,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000012",
+        "name":"Ceramic Frying Pan",
+        "description":"Made up of high grade, heat resistant ceramic this Ceramic Frying Pan is a perfect addition to your kitchen.",
+        "price":"£20.99",
+        "category":2,
+        "image":"15.jpg"
+        }
+    },
+    
+    {
+        "pk":13,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000013",
+        "name":"Cast Iron Griddle",
+        "description":"Made up of high grade Cast Iron this Cast Iron Griddle is a perfect addition to your kitchen.",
+        "price":"£30.99",
+        "category":2,
+        "image":"16.jpg"
+        }
+    },
+
+    {
+        "pk":14,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000014",
+        "name":"Lasagna Tray",
+        "description":"Made up of high grade, heat resistant ceramic this Lasagna Tray is a perfect addition to your kitchen.",
+        "price":"£35.99",
+        "category":2,
+        "image":"17.jpg"
+        }
+    },
+
+    {
+        "pk":15,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000015",
+        "name":"Chefs Knife",
+        "description":"Made from a highly durable and sharp steel alloy this chefs knife is a great addition with to your kitchen. This one has a ergonomic black handle.",
+        "price":"£30.99",
+        "category":3,
+        "image":"18.jpg"
+        }
+    },
+
+    {
+        "pk":16,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000016",
+        "name":"Chefs Knife",
+        "description":"Made up of high grade stainless steel this Ladle is a perfect addition to your kitchen. This one has a hand crafted oak handle.",
+        "price":"£45.99",
+        "category":3,
+        "image":"19.jpg"
+        }
+    },
+
+    {
+        "pk":17,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000017",
+        "name":"Chefs Knife",
+        "description":"Made up of high grade stainless steel this Ladle is a perfect addition to your kitchen. This one has a hand crafted maple handle. ",
+        "price":"£45.99",
+        "category":3,
+        "image":"20.jpg"
+        }
+    },
+
+     {
+        "pk":18,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000018",
+        "name":"Chefs Knife",
+        "description":"Made up of high grade stainless steel this Ladle is a perfect addition to your kitchen. This one has a hand crafted ceramic handle.",
+        "price":"£30.99",
+        "category":3,
+        "image":"21.jpg"
+        }
+    },
+
+    {
+        "pk":19,
+        "model":"products.product",
+        "fields": {
+        "sku":"ps00000000019",
+        "name":"Chefs Knife",
+        "description":"Made up of high grade stainless steel this Ladle is a perfect addition to your kitchen. This one has a hand crafted leather handle. ",
+        "price":"£50.99",
+        "category":3,
+        "image":"21.jpg"
+        }
+    }
+]
